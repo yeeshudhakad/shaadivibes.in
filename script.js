@@ -1,12 +1,12 @@
 // EDIT YOUR REELS HERE
 // Put thumbnail files inside the /images folder, then paste each Instagram Reel URL.
 const reels = [
- {title:'Wedding Reel 01', thumbnail:'images/pappu.jpg', url:'https://www.instagram.com/reel/DdJHCypxidx/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA=='},
- {title:'Wedding Reel 02', thumbnail:'images/chai.jpg', url:'https://www.instagram.com/reel/DdJMZCxRDI0/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA=='},
- {title:'Wedding Reel 03', thumbnail:'images/naam karan.jpg', url:'https://www.instagram.com/reel/DaxfLczIarR/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA=='},
- {title:'Wedding Reel 04', thumbnail:'images/care.jpg', url:'https://www.instagram.com/reel/DbnlWMytJiQ/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA=='},
- {title:'Wedding Reel 05', thumbnail:'images/reaction.jpg', url:'https://www.instagram.com/reel/DbTD3NktTYw/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA=='},
- {title:'Wedding Reel 06', thumbnail:'images/transtition.jpg', url:'https://www.instagram.com/reel/DXuGIMpCOnb/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA=='}
+ {title:'Wedding Reel 01', thumbnail:'images/care.jpg', url:'https://www.instagram.com/reel/DbnlWMytJiQ/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA=='},
+ {title:'Wedding Reel 02', thumbnail:'images/reaction.jpg', url:'https://www.instagram.com/reel/DbTD3NktTYw/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA=='},
+ {title:'Wedding Reel 03', thumbnail:'images/baaratss (3).jpg', url:'https://www.instagram.com/reel/DaxfLczIarR/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA=='},
+ {title:'Wedding Reel 04', thumbnail:'images/pappu.jpg', url:'https://www.instagram.com/reel/DdJHCypxidx/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA=='},
+ {title:'Wedding Reel 05', thumbnail:'images/chai.jpg', url:'https://www.instagram.com/reel/DdJMZCxRDI0/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA=='},
+ {title:'Wedding Reel 06', thumbnail:'images/transtition.jpg' , url:'https://www.instagram.com/reel/DXuGIMpCOnb/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA=='}
 ];
 
 function placeholderData(title) {
